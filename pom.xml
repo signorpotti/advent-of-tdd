@@ -7,6 +7,10 @@
     <groupId>org.jpgough</groupId>
     <artifactId>advent-of-tdd</artifactId>
     <version>1.0-SNAPSHOT</version>
+    <packaging>pom</packaging>
+    <modules>
+        <module>D1</module>
+    </modules>
 
     <properties>
         <maven.compiler.source>17</maven.compiler.source>
